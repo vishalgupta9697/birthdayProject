@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    font-size: large;
+    background-image: linear-gradient(to right, #ff7e5f, #feb47b);
+    
+}
+ul{
+    text-align:justify;
+}
+h2{
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+font-size: 29px;
+letter-spacing: 0.6px;
+word-spacing: 6px;
+color: #000000;
+font-weight: 700;
+text-decoration: none solid rgb(68, 68, 68);
+font-style: italic;
+font-variant: normal;
+text-transform: capitalize;
+}
